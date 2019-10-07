@@ -38,15 +38,21 @@ C.	Section d’exercice
 D.	Série d’exercice
 
 •	Titre de l’exercice
+
 •	Description (énoncé / résultat)
+
 •	La difficulté de l’exercice
+
 •	Nombre de points
+
 •	Catégorie de l’exercice
+
 •	Etat de validité
 
 IV.	MENU DRAFT
 
 •	Afficher la liste des solutions de l’exercice en fonction en fonction du langage de programmation (date, langage, score)
+
 •	Enregistrement du code des solutions
 
 V.	LES SOLUTIONS
@@ -56,4 +62,5 @@ V.	LES SOLUTIONS
 VI.	LES COMMANTAIRES
 
 •	Forum de discussion lié à l’exercice en cours (user, message, réponse)
+
 •	Report commentaire
