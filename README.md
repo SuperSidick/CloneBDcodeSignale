@@ -64,3 +64,63 @@ VI.	LES COMMANTAIRES
 •	Forum de discussion lié à l’exercice en cours (user, message, réponse)
 
 •	Report commentaire
+
+-----------------------------------DAILY CHALLENGE------------------------------
+
+•	Statut (public)
+
+•	All statut
+
+•	Niveau de difficulté (facile, difficile…..)
+
+•	Catégorie (frontend, database…)
+
+•	Nombre de challenge résolus
+
+•	Total challenge affiché
+
+•	Challenge (statut, titre, catégorie, user, nombre d’inscrits, nombre de commentaires, récompense)
+
+NB : l’interface du challenge est identique à l’arcade à la différence qu’il y a le temps qui décompte.
+
+----------------------------------COMPAGNIES CHALLENGE --------------------
+
+•	Situation géographique
+
+•	Type d’entreprise
+
+•	Date de création
+
+•	Nombre d’employés
+
+•	Domaine d’activité
+
+•	Media (image, vidéo)
+
+•	Description entreprise
+
+•	Code challenge entreprise (titre, nombre souscripteur, récompense, chrono difficulté)
+
+--------------------------INTERVIEW PRATICE -----------------------
+
+-Affichage des catégories des plans d’étude (Crash course, fundamentals, extra crédit, freestyle)
+-contenu détaillé des catégories d’études
+-Contenu de l’exercice (titre, nombre challenge)
+-Contenu du test (titre, entreprise, difficulté, chrono, nombre inscrit, nombre commentaire, récompense)
+
+-------------------------------------TOURNOIR -------------------------------------------
+
+-les objets d’onglets (regular, marathons, private)
+-Boutons create
+-les épreuves (nombre de participants, exercices(5), duré de l’exercice (5min), récompense, commentaire)
+-État (running, finished)
+
+------------------------------------MY PROFIL ------------------------------------------
+-Les onglets (overview, codefreinds, my tasks, badges)
+-overview (user, full-name, username, image, email, level,)
+-Experience ()
+-Education ()
+-Code friends
+-My tasks
+-Badges (description, percentage, logo, plusieurs type de badge)
+
