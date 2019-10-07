@@ -18,7 +18,9 @@ c)	Challenge entreprise
 d)	Challenge entre équipe
 e)	Interview pour recruteur
 f)	Lien direct vers le niveau d’arcade actuel
-----------------------------------------------------------ARCADE------------------------------------------------------------------------
+
+------------------------------------------------ARCADE----------------------------------------------------------------
+
 III.	CONTENU DU DASHBOARD
 A.	Arcade
 •	Liste des rubriques (nombre de rubrique, information sur le contexte ex : nombre d’exercice résolu sur le nombre d’exercices total)
